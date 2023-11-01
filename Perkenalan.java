@@ -1,10 +1,10 @@
 public class Perkenalan {
     public static void main(String[] args) {
         // Nama
-        System.out.println("Raffy Jamil Octavialdy");
+        System.out.println("Luthfi Triaswangga");
 
         // Kelas
-        System.out.println("2H");
+        System.out.println("1B");
 
         // Harapan
         System.out.println("Sukses");
