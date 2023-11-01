@@ -1,7 +1,7 @@
 public class Perkenalan {
     public static void main(String[] args) {
         // Nama
-        System.out.println("Putri Norchasana");
+        System.out.println("Coba Dua");
 
         // Kelas
         System.out.println("2H");
