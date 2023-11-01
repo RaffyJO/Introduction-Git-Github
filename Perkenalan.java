@@ -3,8 +3,8 @@ public class Perkenalan {
         // Nama
         System.out.println("Muhammad Farrel Caesarian");
         //Kelas
-        System.out.println("TI-1A/Web")
+        System.out.println("TI-1A/Web");
         //Jokes
-        System.out.println("kuda kuda apa yang sedang bersedih, kudapati kamu bersama dengan orang lain")
+        System.out.println("kuda kuda apa yang sedang bersedih, kudapati kamu bersama dengan orang lain");
     }
 }
