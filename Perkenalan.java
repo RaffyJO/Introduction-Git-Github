@@ -5,6 +5,6 @@ public class Perkenalan {
         //Kelas
         System.out.println("TI-1A/Web")
         //Jokes
-        System.out.println("kuda kuda apa yang sedang bersedih, kudapati kamu berduaan dengan orang lain")
+        System.out.println("kuda kuda apa yang sedang bersedih, kudapati kamu bersama dengan orang lain")
     }
 }
