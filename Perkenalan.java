@@ -4,7 +4,7 @@ public class Perkenalan {
         System.out.println("krisna");
 
         // Kelas
-        System.out.println();
+        System.out.println("2H");
 
         // Harapan
         System.out.println();
